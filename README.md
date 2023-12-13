@@ -1,2 +1,2 @@
-# iot-project-1
+# iot-project-2
 New repo
